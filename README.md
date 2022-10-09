@@ -1,5 +1,5 @@
 # NG-java-MAX-code
-🏆🏆😃A propos de JAVA SE et JAVA EE. Bienvenue! dans la POO avec JAVA💨💝
+🏆🏆😃A propos de JAVA SE. Bienvenue! dans la POO avec JAVA💨💝
 
 ## DEBUTONS SUR JAVA
 
@@ -8,11 +8,11 @@ Le langage Java est un langage de programmation orienté objet créé par James 
 
 ![LOGO ORACLE](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png)
 
-## Découvrez la Programmation Orientée Objet
+## Découvrez la Programmation Orientée Objet avec NGcodeX
 
-Vous avez peut-être déjà entendu le terme "objet" dans un contexte de programmation. Mais qu'est-ce que cela veut dire exactement ? Commençons par regarder des objets du monde réel, comme des stylos, des livres, des Smartphones, des ordinateurs, etc.
+Vous avez peut-être déjà entendu le terme "objet"😇  dans un contexte de programmation. Mais qu'est-ce que cela veut dire exactement ?🤔 Commençons par regarder des objets du monde réel, comme des stylos, des livres, des Smartphones, des ordinateurs, etc.
 
-Chaque type d’objet se présente sous différentes formes, mais vous pouvez les ranger dans des catégories. Si vous voulez acheter une chaise, vous vous rendez dans un magasin de meubles, au rayon correspondant, et vous avez le choix entre plusieurs modèles. Elles seront parfois très différentes les unes des autres, mais elles n’en seront pas moins des chaises.
+Chaque type d’objet se présente sous différentes formes 🧊, mais vous pouvez les ranger dans des catégories. Si vous voulez acheter une chaise, vous vous rendez dans un magasin de meubles, au rayon correspondant, et vous avez le choix entre plusieurs modèles. Elles seront parfois très différentes les unes des autres, mais elles n’en seront pas moins des chaises.
 
 Vous reconnaissez ces différents objets comme faisant partie du même groupe ou type. Vous remarquez des points communs entre eux, recueillez les informations et créez une représentation mentale de cette catégorie d'objets donnée.
 
