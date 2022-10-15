@@ -1,6 +1,6 @@
-# Leetcode solutions😃🏆 NGcodeX also invites you to practice on their site and see the solutions here
+# 😃🏆 NGcodeX <a href="https://interview.leetcode.com/">Leetcode</a> solutions. NGcodeX also invites you to practice on their site and see the solutions here
 
-## Missing Solutions
+## lest Code JAVA
 
 
 <sub>Problem</sub> | <sub>C</sub> | <sub>C++</sub> | <sub>C#</sub> | <sub>GO</sub> | <sub>Java</sub> | <sub>JS</sub> | <sub>Kotlin</sub> | <sub>Python</sub> | <sub>Ruby</sub> | <sub>Rust</sub> | <sub>Scala</sub> | <sub>Swift</sub> | <sub>TS</sub>
