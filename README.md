@@ -1,45 +1,21 @@
 # NG-java-MAX-code
-🏆🏆😃A propos de JAVA SE. Bienvenue! dans la POO avec JAVA💨💝
+🏆🏆😃About JAVA SE. Welcome! in OOP with JAVA💨💝
 
-## DEBUTONS SUR JAVA
+## LET'S GET STARTED ON JAVA
 
-Java est un langage tres tres populaire du fait de sa portabilité.
-Le langage Java est un langage de programmation orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien de Bill Joy, cofondateur de Sun Microsystems. Java a été officiellement présenté le 23 mai 1995 au SunWorld. La société Oracle racheta alors la société Sun en 2009, ce qui explique pourquoi ce langage appartient désormais à Oracle. La particularité et l’intérêt de Java réside dans sa portabilité entre les différents systèmes d’exploitations tels que Unix, Windows, ou MacOS. Un programme développé en langage Java, peut ainsi s’exécuter sur toutes les plateformes, grâce à ses frameworks associés visant à garantir cette portabilité.
+Java is a very popular language because of its portability.
+The Java language is an object-oriented programming language created by Sun Microsystems employees James Gosling and Patrick Naughton, with support from Sun Microsystems co-founder Bill Joy. Java was officially introduced on May 23, 1995 at SunWorld. The Oracle company then bought the Sun company in 2009, which explains why this language now belongs to Oracle. The particularity and interest of Java lies in its portability between different operating systems such as Unix, Windows, or MacOS. A program developed in Java language can thus be executed on all platforms, thanks to its associated frameworks aimed at guaranteeing this portability.
 
 ![LOGO ORACLE](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png)
 
-## Découvrez la Programmation Orientée Objet avec NGcodeX
+## Discover Object Oriented Programming with NGcodeX
 
-Vous avez peut-être déjà entendu le terme "objet"😇  dans un contexte de programmation. Mais qu'est-ce que cela veut dire exactement ?🤔 Commençons par regarder des objets du monde réel, comme des stylos, des livres, des Smartphones, des ordinateurs, etc.
+You may have heard the term "object"😇 before in a programming context. But what exactly does that mean?🤔 Let's start by looking at real-world objects, like pens, books, smartphones, computers, etc.
 
-Chaque type d’objet se présente sous différentes formes 🧊, mais vous pouvez les ranger dans des catégories. Si vous voulez acheter une chaise, vous vous rendez dans un magasin de meubles, au rayon correspondant, et vous avez le choix entre plusieurs modèles. Elles seront parfois très différentes les unes des autres, mais elles n’en seront pas moins des chaises.
+Each type of object comes in different forms   , but you can put them into categories. If you want to buy a chair, you go to a furniture store, to the corresponding section, and you have the choice between several models. They will sometimes be very different from each other, but they will be chairs nonetheless.
 
-Vous reconnaissez ces différents objets comme faisant partie du même groupe ou type. Vous remarquez des points communs entre eux, recueillez les informations et créez une représentation mentale de cette catégorie d'objets donnée.
+You recognize these different objects as part of the same group or type. You notice commonalities between them, collect the information and create a mental representation of that given category of objects.
 
-Un autre exemple : il existe différents types de livres, mais ils ont tous tendance à avoir un titre, un auteur, une couverture, des pages, etc. En d'autres termes, les objets livres ont tous des attributs similaires qui vous permettent de les classer dans votre esprit comme faisant partie de la catégorie « livre ».
-
-Cette liste d'attributs que nous venons de décrire pour un livre agit comme une sorte de plan pour l'objet "livre". En programmation, cela s'appelle une classe. Pour créer un livre, vous vous basez sur le plan correspondant. Bien sûr, le livre créé a un titre… Cela ne vous rappellerait pas les variables ? Après tout, en développement, tout doit avoir un nom pour pouvoir être utilisé.
-
-### Concevez des classes
-
-Pour déclarer une classe en Java, utilisez le mot-clé class suivi d'un nom personnalisé. Ensuite, terminez avec des accolades ouvrante et fermante ({}) pour l'ensemble du contenu. Ceci inclut la liste complète de ses attributs :
-
-class Book {
-// propriétés d'une classe
-}
-Maintenant, ajoutons les champs définis précédemment :
-
-class Book {
-
-    String title;
-
-    String author;
-
-    int numberOfPages;
-
-    String publisher="OC";
-
-}
 ### Installing
 
 netbeans, eclipse...etc
