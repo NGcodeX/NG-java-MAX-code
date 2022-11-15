@@ -14,8 +14,10 @@ class Solution {
             for (int i = 0; i < s.length(); i++) {
                 arrS[s.charAt(i) - 'a']++;
             }
+            
+            
             for (int i = 0; i < 26; i++) {
-                if (arrS[i] > arrChars[i]) flag = false;
+                if ( arrS[i] > arrChars[i] ) flag = false;
             }
             if (flag) ans += s.length();
         }
